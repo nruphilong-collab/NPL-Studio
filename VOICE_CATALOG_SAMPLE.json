@@ -1,0 +1,58 @@
+[
+  {
+    "language": "vi-VN",
+    "voiceType": "BV421_vivn_streaming",
+    "displayName": "Nhỏ Ngọt Ngào",
+    "resourceId": "7252594014782755330",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "vi_female_huong",
+    "displayName": "Giọng Nữ Phổ Thông",
+    "resourceId": "7264854897953083905",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "BV074_streaming_dsp",
+    "displayName": "Giọng Bé",
+    "resourceId": "7550087831092251920",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "BV074_streaming",
+    "displayName": "Cô Gái Hoạt Ngôn",
+    "resourceId": "7102355709945188865",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "vi-VN-HoaiMyNeural",
+    "displayName": "Hoai My",
+    "resourceId": "7371666434650280464",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "vi-VN-NamMinhNeural",
+    "displayName": "Nam Minh",
+    "resourceId": "7371666524727153168",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "BV562_streaming",
+    "displayName": "Mai",
+    "resourceId": "7483736254694035984",
+    "catalogCapturedAt": "2026-04-16"
+  },
+  {
+    "language": "vi-VN",
+    "voiceType": "multi_female_yangguangnv_uranus_bigtts",
+    "displayName": "Ban Mai",
+    "resourceId": "7637456432522218773",
+    "catalogCapturedAt": "2026-04-16"
+  }
+]
