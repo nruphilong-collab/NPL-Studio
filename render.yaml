@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: nplstudio-capcut-tts
+    runtime: python
+    plan: free
+    buildCommand: pip install -r backend/requirements.txt && pip install -e ./capcut-tts-api-main
+    startCommand: uvicorn backend.server:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: NPL_API_KEY
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: "*"
